@@ -2,7 +2,7 @@
 html {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0rem 2rem;
-  background-color: #377ad2;
+  background: linear-gradient(to right, blue, light);
 }
 
 /* Banner image*/
