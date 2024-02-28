@@ -2,7 +2,7 @@
 html {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0rem 2rem;
-  background: linear-gradient(to right, blue, white);
+  background: linear-gradient(to bottom right, blue, skyblue);
 }
 
 /* Banner image*/
@@ -22,7 +22,7 @@ nav ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: darkcyan;
+  background-color: darkslateblue;
   top: 0;
   width: 100%;
   text-align: center;
@@ -61,7 +61,7 @@ main {
 /* H1 uses a google font. Check out https://www.w3schools.com/howto/howto_google_fonts.asp to change - also see line 9 in your html page*/
 h1 {
   color: darkblue;
-  font-family: 'Caesar Dressing';
+  font-family: 'Lato', sans-serif;;
   font-size: 60px;
   text-align: center;
   margin-bottom: 1rem;
